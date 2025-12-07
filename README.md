@@ -21,3 +21,11 @@ Use `gcc` to compile the program:
 ```bash
 gcc main.c -o sum_program
 ```
+
+---
+##  Usage
+Run the program with integers as arguments:
+
+```bash
+./sum_program 10 20 30
+```
