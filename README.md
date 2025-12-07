@@ -12,3 +12,12 @@ It prints all the arguments passed to the program and calculates the sum of inte
 - Lists all arguments with their index.
 - Calculates the sum of integers passed as arguments.
 - Handles the case when no integers are provided.
+
+---
+
+## Compilation
+Use `gcc` to compile the program:
+
+```bash
+gcc main.c -o sum_program
+```
