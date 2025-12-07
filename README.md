@@ -1,2 +1,2 @@
 # command-line
-simple command line using c
+Simple command-line program in C that reads arguments and calculates their sum.
